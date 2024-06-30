@@ -17,4 +17,3 @@ TODO
 
 [![Sofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiebudman)](https://github.com/sofiebudman/github-readme-stats)
 
-[![Sofie's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/sofiebudman/github-readme-stats)
