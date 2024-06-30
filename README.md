@@ -16,4 +16,5 @@ TODO
 - LinkedIn: [Your LinkedIn Profile]
 
 [![Sofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiebudman)](https://github.com/sofiebudman/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiebudman)](https://github.com/sofiebudman/github-readme-stats)
+
+[![Sofie's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/sofiebudman/github-readme-stats)
