@@ -1,25 +1,19 @@
 # Hello, I'm Sofie! 👋
 
-I'm a [Your Profession or Role]. Welcome to my GitHub profile.
+I'm a high school student. Welcome to my GitHub profile.
 
 ## Skills
 
-- Programming Languages: [List languages]
-- Tools & Technologies: [List tools and technologies]
+- Programming Languages: Java, Python, Ruby
 
 ## Projects
 
-### [Project Name 1](link-to-project)
-
-Description of the project.
-
-### [Project Name 2](link-to-project)
-
-Description of the project.
+TODO
 
 ## Contact
 
-- Email: [Your Email]
+- Email: changbudmanfamily@gmail.com
 - LinkedIn: [Your LinkedIn Profile]
 
 [![Sofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiebudman)](https://github.com/sofiebudman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiebudman)](https://github.com/sofiebudman/github-readme-stats)
