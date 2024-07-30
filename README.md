@@ -5,7 +5,7 @@ FRC Team 199
 
 ## Skills
 
-- Programming Languages: Java, Python, Ruby on Rails
+- Programming Languages: Java, Python, Ruby on Rails(learning), R(learning)
 
 ## Projects
 
