@@ -1,7 +1,7 @@
 # Hello, I'm Sofie! 👋
 
 I'm a high school student. Welcome to my GitHub profile. 
-FRC Team 199
+FRC Team 199.
 ASDRP 
 
 ## Skills
