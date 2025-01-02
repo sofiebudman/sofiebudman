@@ -7,9 +7,8 @@ Welcome to my GitHub profile! I'm a high school student. Here, you'll find some 
 - 🔭 I’m currently working on [Project XYZ](https://github.com/sofiebudman/project-xyz)
 - 🌱 I’m currently learning advanced algorithms and data structures
 - 👯 I’m looking to collaborate on open-source projects related to web development and machine learning
-- 💬 Ask me about Python, JavaScript, and React
+- 💬 Ask me about Python, Java, and R
 - 📫 How to reach me: [sofiebudman@gmail.com](mailto:sofie@example.com)
-- ⚡ Fun fact: I love hiking and exploring new places
 
 ## Skills
 
