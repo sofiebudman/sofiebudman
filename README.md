@@ -37,7 +37,7 @@ A brief description of a machine learning project. This project showcases my ski
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sofiebudman)
+- [LinkedIn](https://www.linkedin.com/in/sofie-budman-42a768324/)
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
