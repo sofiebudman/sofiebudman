@@ -24,7 +24,7 @@ Here are some of the technologies and tools I work with:
 ### Foosball Game
 A brief description of Project XYZ. This project focuses on solving a particular problem using innovative technologies.
 
-### Pomodoro Timer
+### [Pomodoro Timer](https://github.com/sofiebudman/pomodoro)
 A brief description of Project ABC. This project is an example of my work in web development using React and Node.js.
 
 ### Machine Learning Projects
