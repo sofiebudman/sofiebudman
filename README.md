@@ -21,13 +21,13 @@ Here are some of the technologies and tools I work with:
 
 ## Projects
 
-### [Project XYZ](https://github.com/sofiebudman/project-xyz)
+### Foosball Game
 A brief description of Project XYZ. This project focuses on solving a particular problem using innovative technologies.
 
-### [Project ABC](https://github.com/sofiebudman/project-abc)
+### Pomodoro Timer
 A brief description of Project ABC. This project is an example of my work in web development using React and Node.js.
 
-### [Machine Learning Project](https://github.com/sofiebudman/ml-project)
+### Machine Learning Projects
 A brief description of a machine learning project. This project showcases my skills in data analysis and machine learning.
 
 ## GitHub Stats
