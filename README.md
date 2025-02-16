@@ -1,6 +1,5 @@
 # Hi there, I'm Sofie Budman 👋
 
-Welcome to my GitHub profile! I'm a high school student. Here, you'll find some of my projects, contributions, and interests.
 
 ## About Me
 
