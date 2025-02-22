@@ -6,8 +6,8 @@
 - I’m currently working on [R Climate Change Prediction and Visualization](https://github.com/sofiebudman/climateChange)
 - I’m currently learning advanced algorithms and data structures
 - 👯 I’m looking to collaborate on open-source projects related to web development and machine learning
-- 💬 Ask me about Python, Java, and R
-- 📫 How to reach me: [sofiebudman@gmail.com](mailto:sofie@example.com)
+- Languages: Python, Java, and R
+- Email: [sofiebudman@gmail.com](mailto:sofie@example.com)
 
 ## Skills
 
