@@ -7,7 +7,7 @@
 - I’m currently learning advanced algorithms and data structures
 - 👯 I’m looking to collaborate on open-source projects related to web development and machine learning
 - Languages: Python, Java, and R
-- Email: [sofiebudman@gmail.com](mailto:sofie@example.com)
+
 
 ## Skills
 
@@ -48,6 +48,7 @@ A brief description of a machine learning project. This project showcases my ski
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sofie-budman-42a768324/)
+- [sofiebudman@gmail.com](mailto:sofie@example.com)
 
 
 
