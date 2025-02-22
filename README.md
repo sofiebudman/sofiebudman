@@ -6,7 +6,6 @@ I’m a high school student passionate about computer scinece, biology, and robo
 
 ### 👩‍💻 Skills
 
-Here are some of the technologies and tools I work with:
 
 - **Languages:** Python, Java, R, Javascript, HTML, CSS
 - **Tools:** Git, LINUX
@@ -41,6 +40,11 @@ This repository contains the code for FRC 199’s 2024 robot, for the Crescendo 
 
 #### [Foosball Game](https://github.com/sofiebudman/Foosball-game)
 An online foosball game created using Javascript, HTML, CSS, and the Pixi JS library through the [More Active Girls in Computing Internship](https://www.getmagic.org/)
+
+### 👩‍🔬 Research
+
+#### [Bioinformatics Poster Presentation]
+#### [TMEM62 Gene Project]
 
 ### 📈 GitHub Stats
 
