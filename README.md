@@ -3,7 +3,7 @@
 
 ## About Me
 
-- I’m currently working on [R Climate Change Prediction and Visualization](https://github.com/sofiebudman/climateChange)
+- I’m currently working on 
 - I’m currently learning advanced algorithms and data structures
 - 👯 I’m looking to collaborate on open-source projects related to web development and machine learning
 - Languages: Python, Java, and R
@@ -28,7 +28,7 @@ Here are some of the technologies and tools I work with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" />
 ## Projects
 
-### Foosball Game
+### [R Climate Change Prediction and Visualization](https://github.com/sofiebudman/climateChange)
 A brief description of Project XYZ. This project focuses on solving a particular problem using innovative technologies.
 
 ### [Pomodoro Timer](https://github.com/sofiebudman/pomodoro)
