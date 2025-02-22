@@ -1,10 +1,10 @@
 # Hi there, I'm Sofie Budman 👋
 
 
-### About Me
+### 👧 About Me
 I’m a high school student passionate about computer scinece, biology, and robotics. With experience in Javaa, Python, R and software development, I enjoy applying my skills to solve complex problems and collaborate on impactful projects. Currently, I’m working on bioinformatics research, contributing to FRC robotics, and diving deeper into Machine Learning.
 
-### Skills
+### 👩‍💻 Skills
 
 Here are some of the technologies and tools I work with:
 
@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" />
-### Projects
+### 💻 Projects
 
 #### [E. Coli Project](https://github.com/sofiebudman/Ecoli-Project)
 This project leverages E. coli data sourced from both NCBI and the UCI Machine Learning Repository to explore the intersection of biology and machine learning. The goal is to create predictive models, delve into phylogenetic analysis, and conduct comprehensive tests using a combination of biological and computational tools.
@@ -47,7 +47,7 @@ An online foosball game created using Javascript, HTML, CSS, and the Pixi JS lib
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sofiebudman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
 
 
-## Connect with Me
+## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sofie-budman-42a768324/)
 - [sofiebudman@gmail.com](mailto:sofie@example.com)
