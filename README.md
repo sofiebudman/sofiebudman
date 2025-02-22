@@ -34,6 +34,9 @@ A brief description of Project XYZ. This project focuses on solving a particular
 ### [Pomodoro Timer](https://github.com/sofiebudman/pomodoro)
 A brief description of Project ABC. This project is an example of my work in web development using React and Node.js.
 
+### [FRC 199 2024 Robot Code](https://github.com/DeepBlueRobotics/RobotCode2024)
+Code for our team's 2025 Robot Code. I contributed mainly to Arm.java and IntakeShooter.java.
+
 ### Machine Learning Projects
 A brief description of a machine learning project. This project showcases my skills in data analysis and machine learning.
 
