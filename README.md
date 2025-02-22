@@ -37,7 +37,8 @@ A brief description of Project ABC. This project is an example of my work in web
 ### Machine Learning Projects
 A brief description of a machine learning project. This project showcases my skills in data analysis and machine learning.
 
-
+### [Foosball Game](https://github.com/sofiebudman/Foosball-game)
+An online foosball game created using Javascript, HTML, CSS, and the Pixi JS library through the [More Active Girls in Computing Internship](https://www.getmagic.org/)
 
 ## GitHub Stats
 
