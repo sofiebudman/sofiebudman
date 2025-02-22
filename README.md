@@ -41,7 +41,7 @@ A brief description of a machine learning project. This project showcases my ski
 #### [Foosball Game](https://github.com/sofiebudman/Foosball-game)
 An online foosball game created using Javascript, HTML, CSS, and the Pixi JS library through the [More Active Girls in Computing Internship](https://www.getmagic.org/)
 
-### GitHub Stats
+### 📈 GitHub Stats
 
 ![Sofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiebudman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sofiebudman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
