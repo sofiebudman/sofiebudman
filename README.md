@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=46689b&width=435&lines=Hi+there,+I'm+Sofie+Budman+👋)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Code&size=30&pause=1000&color=46689b&width=520&lines=Hi+there,+I'm+Sofie+Budman+👋)
 
 
 ### 👧 About Me
