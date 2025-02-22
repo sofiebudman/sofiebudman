@@ -18,13 +18,11 @@ I’m a high school student passionate about computer science, biology, and robo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" />
 <img src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height = "40px"/>
-<img src = "https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height = "40px"/>
 <img src = "https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height = "40px"/>
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height = "40px"/>
+
 ### 💻 Projects
 
 #### [E. Coli Project](https://github.com/sofiebudman/Ecoli-Project)
