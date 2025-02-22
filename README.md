@@ -28,14 +28,17 @@ Here are some of the technologies and tools I work with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" />
 ## Projects
 
+### [E. Coli Project](https://github.com/sofiebudman/Ecoli-Project)
+This project leverages E. coli data sourced from both NCBI and the UCI Machine Learning Repository to explore the intersection of biology and machine learning. The goal is to create predictive models, delve into phylogenetic analysis, and conduct comprehensive tests using a combination of biological and computational tools.
+
 ### [R Climate Change Prediction and Visualization](https://github.com/sofiebudman/climateChange)
-A brief description of Project XYZ. This project focuses on solving a particular problem using innovative technologies.
+This project focuses on reproducing key climate change graphs that have been widely used in scientific and news articles. By leveraging R’s powerful data analysis and visualization capabilities, the project aims to provide clear, reproducible results to help draw trends relating to global warming and climate change.
 
 ### [Pomodoro Timer](https://github.com/sofiebudman/pomodoro)
-A brief description of Project ABC. This project is an example of my work in web development using React and Node.js.
+A simple but effective Pomodoro timer built using HTML, JavaScript, and CSS. The Pomodoro Technique is a time management method that breaks work into intervals, traditionally 25 minutes separated by 5 minute breaks. 
 
 ### [FRC 199 2024 Robot Code](https://github.com/DeepBlueRobotics/RobotCode2024)
-Code for our team's 2025 Robot Code. I contributed mainly to Arm.java and IntakeShooter.java.
+This repository contains the code for FRC 199’s 2024 robot, for the Crescendo Game. The code uses WPILib and libraries to control the robot and enable autonomous and teleoperated operations. My primary contributions were to the arm and intake/shooter subsystems.
 
 ### Machine Learning Projects
 A brief description of a machine learning project. This project showcases my skills in data analysis and machine learning.
