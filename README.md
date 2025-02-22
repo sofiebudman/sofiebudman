@@ -13,11 +13,19 @@
 
 Here are some of the technologies and tools I work with:
 
-- **Languages:** Python, Java, R
-- **Web Development:** HTML, CSS
-- **Databases:** 
-- **Tools:** Git
+- **Languages:** Python, Java, R, Javascript, HTML, CSS
+- **Tools:** Git, LINUX
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" />
 ## Projects
 
 ### Foosball Game
@@ -29,15 +37,21 @@ A brief description of Project ABC. This project is an example of my work in web
 ### Machine Learning Projects
 A brief description of a machine learning project. This project showcases my skills in data analysis and machine learning.
 
+
+
 ## GitHub Stats
 
-![Sofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiebudman&show_icons=true&theme=radical)
+![Sofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiebudman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sofiebudman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
+
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sofie-budman-42a768324/)
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+
+
+
 
 
 
