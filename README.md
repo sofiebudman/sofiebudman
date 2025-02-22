@@ -43,9 +43,11 @@ An online foosball game created using Javascript, HTML, CSS, and the Pixi JS lib
 
 ### 👩‍🔬 Research
 
-#### [Bioinformatics Poster Presentation]
-#### [TMEM62 Gene Project]
+#### [Bioinformatics Poster Presentation](https://drive.google.com/file/d/1NHOnscngJEpVHtO13va62GusGjsNGo5V/view?usp=sharing)
+This project applies machine learning techniques to predict Matrix Attachment Regions in the human genome. Presented at the Southern California Conference for Undergraduate Research (SCCUR), this work demonstrates how computational approaches can enhance biological research.
 
+#### [TMEM62 Gene Project](https://drive.google.com/file/d/1-E_rC3lhdT8ikUWDo4WPj6pgTEBWhmFI/view?usp=sharing)
+Exploring the function and significance of Transmembrane Protein 62 (TMEM62) using biological databases and computational tools. This project analyzes gene expression, protein structure, and evolutionary conservation through resources like NCBI, UniProt, and Ensembl to uncover potential roles in cellular processes and disease mechanisms.
 ### 📈 GitHub Stats
 
 ![Sofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiebudman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)
