@@ -2,7 +2,7 @@
 
 
 ### 👧 About Me
-I’m a high school student passionate about computer science, biology, and robotics. With experience in Java, Python, R and software development, I enjoy applying my skills to solve complex problems and collaborate on impactful projects. Currently, I’m working on bioinformatics research, contributing to FRC robotics, and diving deeper into Machine Learning.
+I’m a high school student passionate about computer science, biology, and robotics. With experience in Java, Python, R and software development, I enjoy applying my skills to solve complex problems and collaborate on impactful projects. Currently, I’m working on bioinformatics research, contributing to FRC robotics, machine learning for disease diagnosis.
 
 ### 👩‍💻 Skills
 
