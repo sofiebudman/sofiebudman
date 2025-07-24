@@ -25,17 +25,8 @@ I’m a high school student passionate about computer science, biology, and robo
 
 ### 💻 Projects
 
-#### [E. Coli Project](https://github.com/sofiebudman/Ecoli-Project)
-This project leverages E. coli data sourced from both NCBI and the UCI Machine Learning Repository to explore the intersection of biology and machine learning. The goal is to create predictive models, delve into phylogenetic analysis, and conduct comprehensive tests using a combination of biological and computational tools.
+#### [MIT BWSI](https://github.com/sofiebudman/Beaverworks)
 
-#### [R Climate Change Prediction and Visualization](https://github.com/sofiebudman/climateChange)
-This project focuses on reproducing key climate change graphs that have been widely used in scientific and news articles. By leveraging R’s powerful data analysis and visualization capabilities, the project aims to provide clear, reproducible results to help draw trends relating to global warming and climate change.
-
-#### [Machine Learning Notebooks](https://github.com/sofiebudman/ML_Notebooks)
-A collection of Jupyter Notebooks exploring various machine learning concepts, algorithms, and datasets. Includes classification, regression, NLP, clustering, and neural networks created in Python and R. Designed for learning and exploring various Machine Learning algorithms. Projects include detection of exoplanets using transit photometry, breast cancer biopsy classification, and sentiment analysis using natural language processing.
-
-#### [Pomodoro Timer](https://github.com/sofiebudman/pomodoro)
-A simple but effective Pomodoro timer built using HTML, JavaScript, and CSS. The Pomodoro Technique is a time management method that breaks work into intervals, traditionally 25 minutes separated by 5 minute breaks. 
 
 #### [FRC 199 2024 Robot Code](https://github.com/DeepBlueRobotics/RobotCode2024)
 This repository contains the code for FRC 199’s 2024 robot, for the Crescendo Game. The code uses WPILib and libraries to control the robot and enable autonomous and teleoperated operations. My primary contributions were to the arm and intake/shooter subsystems.
