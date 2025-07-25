@@ -23,26 +23,9 @@ I’m a high school student passionate about computer science, biology, and robo
 <img src ="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height = "40px"/>
 <img src = "https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height = "40px"/>
 
-### 💻 Projects
-
-#### [MIT BWSI](https://github.com/sofiebudman/Beaverworks)
 
 
-#### [FRC 199 2024 Robot Code](https://github.com/DeepBlueRobotics/RobotCode2024)
-This repository contains the code for FRC 199’s 2024 robot, for the Crescendo Game. The code uses WPILib and libraries to control the robot and enable autonomous and teleoperated operations. My primary contributions were to the arm and intake/shooter subsystems.
 
-
-#### [Foosball Game](https://github.com/sofiebudman/Foosball-game)
-An online foosball game created using Javascript, HTML, CSS, and the Pixi JS library through the [More Active Girls in Computing Internship](https://www.getmagic.org/)
-
-### 👩‍🔬 Research
-
-#### [Bioinformatics Poster Presentation](https://drive.google.com/file/d/1NHOnscngJEpVHtO13va62GusGjsNGo5V/view?usp=sharing)
-This project applies machine learning techniques to predict Matrix Attachment Regions in the human genome. Presented at the Southern California Conference for Undergraduate Research (SCCUR), this work demonstrates how computational approaches can enhance biological research.
-
-#### [TMEM62 Gene Project](https://drive.google.com/file/d/1-E_rC3lhdT8ikUWDo4WPj6pgTEBWhmFI/view?usp=sharing)
-Exploring the function and significance of Transmembrane Protein 62 (TMEM62) using biological databases and computational tools. This project analyzes gene expression, protein structure, and evolutionary conservation through resources like NCBI, UniProt, and Ensembl to uncover potential roles in cellular processes and disease mechanisms.
-### 📈 GitHub Stats
 
 ![Sofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiebudman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sofiebudman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
