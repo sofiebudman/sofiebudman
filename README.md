@@ -14,6 +14,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/sofie-budman-42a768324/)
 - [sofiebudman@gmail.com](mailto:sofie@example.com)
+- [hugging face](https://huggingface.co/sofiebudman)
 
 
 
