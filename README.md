@@ -17,7 +17,8 @@
 - [hugging face](https://huggingface.co/sofiebudman)
 
 
-
+## Projects
+- [A Multilingual Framework for Dysarthria: Detection, Severity Classification, Speech-to-Text, and Clean Speech Generation](https://arxiv.org/abs/2510.03986)
 
 
 
