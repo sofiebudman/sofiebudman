@@ -45,6 +45,10 @@ An online foosball game created using Javascript, HTML, CSS, and the Pixi JS lib
 #### [Bioinformatics Poster Presentation](https://drive.google.com/file/d/1NHOnscngJEpVHtO13va62GusGjsNGo5V/view?usp=sharing)
 This project applies machine learning techniques to predict Matrix Attachment Regions in the human genome. Presented at the Southern California Conference for Undergraduate Research (SCCUR), this work demonstrates how computational approaches can enhance biological research.
 
+#### [Upregulation of Skint3 and Skint9 in Spaceflight Mice Reveals Adaptive Skin–Immune Responses to Microgravity](https://docs.google.com/presentation/d/1KoxNZUUX_kMIUTPH7V2jY2ziV-rxsUK7/edit?usp=sharing&ouid=110196575750332138381&rtpof=true&sd=true)
+Analyzed the NASA OSD-254 mouse skin dataset to study microgravity’s effects on skin-associated immune genes. Differential expression revealed strong upregulation of Skint3 and Skint9, supported by pathway enrichment showing activation of epidermal and immune response pathways. These results suggest coordinated skin–immune adaptation in microgravity and potential targets to support astronaut skin health during long-duration missions.
+
+
 #### [TMEM62 Gene Project](https://drive.google.com/file/d/1-E_rC3lhdT8ikUWDo4WPj6pgTEBWhmFI/view?usp=sharing)
 Exploring the function and significance of Transmembrane Protein 62 (TMEM62) using biological databases and computational tools. This project analyzes gene expression, protein structure, and evolutionary conservation through resources like NCBI, UniProt, and Ensembl to uncover potential roles in cellular processes and disease mechanisms.
 ### 📈 GitHub Stats
