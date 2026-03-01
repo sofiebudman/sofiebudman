@@ -36,10 +36,6 @@ Various Machine Learning Notebooks created during the MIT Beaverworks Summer Ins
 #### [Epidemic Simulator](https://github.com/sofiebudman/AP_CS_Final)
 This project is a Java-based graphical simulation that models the spread of a custom-designed virus within a population. Using an interactive GUI, users can visualize how infections propagate over time based on configurable parameters such as infection rate, recovery rate, and population behavior.
 
-
-#### [Foosball Game](https://github.com/sofiebudman/Foosball-game)
-An online foosball game created using Javascript, HTML, CSS, and the Pixi JS library through the [More Active Girls in Computing Internship](https://www.getmagic.org/)
-
 ### 👩‍🔬 Research
 
 #### [Bioinformatics Poster Presentation](https://drive.google.com/file/d/1NHOnscngJEpVHtO13va62GusGjsNGo5V/view?usp=sharing)
@@ -48,14 +44,8 @@ This project applies machine learning techniques to predict Matrix Attachment Re
 #### [Upregulation of Skint3 and Skint9 in Spaceflight Mice Reveals Adaptive Skin–Immune Responses to Microgravity](https://docs.google.com/presentation/d/1KoxNZUUX_kMIUTPH7V2jY2ziV-rxsUK7/edit?usp=sharing&ouid=110196575750332138381&rtpof=true&sd=true)
 Analyzed the NASA OSD-254 mouse skin dataset to study microgravity’s effects on skin-associated immune genes. Differential expression revealed strong upregulation of Skint3 and Skint9, supported by pathway enrichment showing activation of epidermal and immune response pathways. These results suggest coordinated skin–immune adaptation in microgravity and potential targets to support astronaut skin health during long-duration missions.
 
-
 #### [TMEM62 Gene Project](https://drive.google.com/file/d/1-E_rC3lhdT8ikUWDo4WPj6pgTEBWhmFI/view?usp=sharing)
 Exploring the function and significance of Transmembrane Protein 62 (TMEM62) using biological databases and computational tools. This project analyzes gene expression, protein structure, and evolutionary conservation through resources like NCBI, UniProt, and Ensembl to uncover potential roles in cellular processes and disease mechanisms.
-### 📈 GitHub Stats
-
-![Sofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiebudman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sofiebudman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
-
 
 ## 📫 Connect with Me
 
@@ -63,7 +53,7 @@ Exploring the function and significance of Transmembrane Protein 62 (TMEM62) usi
 - [sofiebudman@gmail.com](mailto:sofie@example.com)
 
 
-## Projects
+## Publications
 - [A Multilingual Framework for Dysarthria: Detection, Severity Classification, Speech-to-Text, and Clean Speech Generation](https://arxiv.org/abs/2510.03986)
 
 
