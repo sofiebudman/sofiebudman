@@ -30,6 +30,9 @@ We present a unified, multilingual AI framework for dysarthria, a speech disorde
 
 [Research Paper](https://arxiv.org/pdf/2510.03986v1) | [Poster Presentation](https://docs.google.com/presentation/d/1nglvy9hKWfx1-oyU5b5ZshGvEtCWDWoK/edit?usp=sharing&ouid=110196575750332138381&rtpof=true&sd=true)
 
+#### [BridgeMate](https://github.com/sofiebudman/BridgeMate)
+Flask application that provides an AI‑powered chat interface with speech‑to‑text and text‑to‑speech features specializing in US Immigration policy. BridgeMate helps users prepare for interviews by simulating real-world scenarios, offering personalized guidance, and generating step-by-step immigration roadmaps. It combines AI, automatic speech recognition, RAG, and resources to make navigating the immigration process clearer and more manageable.
+
 #### [MIT Beaver Works Summer Institute Projects](https://github.com/sofiebudman/Beaverworks)
 Various Machine Learning Notebooks created during the MIT Beaverworks Summer Institute including, Time Series Signal Processing for Sleep State detection, Random Forest Detection of Hyperthyroidism, and Breast Cancer detection with Convolutional Neural Networks.
 
